@@ -1,6 +1,5 @@
 # BailReckoner
- 
-# Bail Reckoner
+
 
 A legal tech web application designed to streamline bail eligibility assessment in India's judicial system.
 
